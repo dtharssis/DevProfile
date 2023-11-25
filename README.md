@@ -1,3 +1,3 @@
 # Start
 
-Cursos: https://github.com/dtharssis-studies
+Courses: https://github.com/dtharssis-studies
